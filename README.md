@@ -68,7 +68,7 @@ Every line of code is an opportunity to create something impactful
 
 ## 📫 Let's Connect!
 
-<img align="left" src="https://github.com/thomas-maye/thomas-maye/blob/main/images/Memoji%20Thomas%202.png" alt="Memoji Thomas" width="125"/>
+<img align="left" src="https://github.com/thomas-maye/thomas-maye/blob/main/images/Memoji%20Thomas%202.png" alt="Memoji Thomas" width="120"/>
 
 - **Email:** thomas.maye.33@gmail.com  
 - **LinkedIn:** [linkedin.com/in/thomas-maye](https://linkedin.com/in/thomas-maye)  
