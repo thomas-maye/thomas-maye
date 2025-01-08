@@ -1,5 +1,7 @@
 # 👋 Hello, I'm Thomas Mayé
 
+<img src="https://github.com/thomas-maye/thomas-maye/blob/main/images/Memoji%20Thomas.png" alt="Memoji Thomas" width="200"/>
+
 ## 🚀 About Me
 
 I am a **Junior Web Developer** with a passion for creating innovative digital solutions. After a successful career in civil engineering, I decided to embrace my love for technology and explore the world of web development. My journey is fueled by curiosity, creativity, and a drive to build meaningful digital experiences.
