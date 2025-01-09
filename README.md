@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-<img align="right" src="" width="200"/> I am a **Junior Web Developer** with a passion for creating innovative digital solutions. After a successful career in civil engineering, I decided to embrace my love for technology and explore the world of web development. My journey is fueled by curiosity, creativity, and a drive to build meaningful digital experiences.
+<img align="right" src="https://github.com/thomas-maye/thomas-maye/blob/main/images/Memoji%20Thomas.png" width="200"/> I am a **Junior Web Developer** with a passion for creating innovative digital solutions. After a successful career in civil engineering, I decided to embrace my love for technology and explore the world of web development. My journey is fueled by curiosity, creativity, and a drive to build meaningful digital experiences.
 
 ### 🔍 What I Do
 
